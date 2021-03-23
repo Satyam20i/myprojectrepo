@@ -47,6 +47,9 @@ public class Calculator {
 	public static void brFun2(){
 		System.out.println("brFun2");
 	}
+	public static void brFunction(){
+		System.out.println("Branch 1 Function ");
+	}
 	
 
 }
