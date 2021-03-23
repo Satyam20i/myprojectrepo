@@ -58,6 +58,11 @@ public class Calculator {
 	public static void brFunction(){
 		System.out.println("Branch 1 Function ");
 	}
+	
+	public static void masterFunction1(){
+		System.out.println("Master Function1");
+	}
+	
 
 	
 
