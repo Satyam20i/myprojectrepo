@@ -51,6 +51,9 @@ public class Calculator {
 	public static void brFun2(){
 		System.out.println("brFun2");
 	}
+	public static void masterFunction(){
+		System.out.println("Master Function");
+	}
 	
 
 
