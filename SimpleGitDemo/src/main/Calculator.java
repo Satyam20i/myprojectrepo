@@ -40,8 +40,18 @@ public class Calculator {
 	public static void fun2(){
 		System.out.println("Function 2");
 	}
+
 	public static void mastfun1(){
 		System.out.println("master fun1");
 	}
+
+	public static void brfun(){
+		System.out.println("One More Function");
+	}
+	public static void brFun2(){
+		System.out.println("brFun2");
+	}
+	
+
 
 }
