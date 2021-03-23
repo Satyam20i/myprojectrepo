@@ -54,6 +54,11 @@ public class Calculator {
 	public static void masterFunction(){
 		System.out.println("Master Function");
 	}
+
+	public static void brFunction(){
+		System.out.println("Branch 1 Function ");
+	}
+
 	
 
 
