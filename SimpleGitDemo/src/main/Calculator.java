@@ -17,6 +17,7 @@ public class Calculator {
 	public static void prod(int num1,int num2){
 		System.out.println(num1*num2);
 	}
+<<<<<<< HEAD
 	public static void div(int num1,int num2){
 		System.out.println(num1/num2);
 	}
@@ -25,4 +26,10 @@ public class Calculator {
 		System.out.println(num1%num2);
 	}
 	
+=======
+	public static void square(int num1){
+		System.out.println(num1*num1);
+	}
+
+>>>>>>> refs/heads/br1
 }
